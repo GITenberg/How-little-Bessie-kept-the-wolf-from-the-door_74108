@@ -1,0 +1,37 @@
+_repo: How-little-Bessie-kept-the-wolf-from-the-door_74108
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coates, Mrs.
+    aliases:
+    - Coates, Mrs. W. H.
+    - Coates, Eliza
+    - Youatt, Elizabeth
+    deathdate: 1879
+    gutenberg_agent_id: '57350'
+    url: http://www.gutenberg.org/2009/agents/57350
+description: ''
+gutenberg_issued: '2024-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74108'
+language: en
+pgterms:marc905: 20240720133737coates
+pgterms:marc906: '1905'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1905.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Bouverie Series. No. 11.
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Children and death -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcsh 'Sick -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: How little Bessie kept the wolf from the door
+url: http://www.gutenberg.org/ebooks/74108
